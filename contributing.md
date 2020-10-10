@@ -13,8 +13,7 @@ This is a simple project, we are going to add different buttons which will launc
 ![Raised Button]
 
 7. After you make changes, use git add . to stage your changes and git commit -m "Description of changes" to commit them.
-8. Upload these changes to your fork using #git push origin master
-
+8. Upload these changes to your fork using **git push origin master**
 
 [Hacktoberfest Logo]: https://github.com/dsciiitkalyani/flutter-url-launcher/blob/master/assets/Logo%20Sponsors%20Light.png?raw=true
 [Raised Button]: https://github.com/dsciiitkalyani/flutter-url-launcher/blob/master/assets/raised_button.PNG?raw=true

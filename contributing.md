@@ -1,4 +1,4 @@
-![Hacktoberfest Logo]
+[Hacktoberfest Logo]
 ### About this project
 
 

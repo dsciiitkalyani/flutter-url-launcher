@@ -8,9 +8,12 @@ This is a simple project, we are going to add different buttons which will launc
 3. Using Git on your local machine, clone your fork using the URL you just copied: git clone URL_OF_FORK.
 4. Now open the cloned repository in Visual Studio Code.
 5. Goto to lib/Home.dart.
-6. Add a button like below with any url.
+6. Inside column widget,Add a button widget like below with any url (example https://facebook.com).
 
 ![Raised Button]
+
+7. After you make changes, use git add . to stage your changes and git commit -m "Description of changes" to commit them.
+8. Upload these changes to your fork using #git push origin master
 
 
 [Hacktoberfest Logo]: https://github.com/dsciiitkalyani/flutter-url-launcher/blob/master/assets/Logo%20Sponsors%20Light.png?raw=true

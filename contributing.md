@@ -1,6 +1,6 @@
 ![Hacktoberfest Logo]
 ### About this project
-This is a simple project, we are going to add different buttons which will launch a url in app's default browser.
+This is a simple project, we are going to add different buttons which will launch a url in phone's default browser.
 
 ### How to contribute
 1. Click Fork button in upper right corner to fork this repository. This creates a copy of this repository in your Github Account.

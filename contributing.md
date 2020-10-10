@@ -9,7 +9,7 @@ This is a simple project, we are going to add different buttons which will launc
 4. Now open the cloned repository in Visual Studio Code.
 5. Goto to lib/Home.dart.
 6. Add a button like below with any url.
-    ![Raised Button]
+![Raised Button]
 
 
 [Hacktoberfest Logo]: https://github.com/dsciiitkalyani/flutter-url-launcher/blob/master/assets/Logo%20Sponsors%20Light.png?raw=true

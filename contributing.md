@@ -1,6 +1,5 @@
-### About this project
 ![Hacktoberfest Logo]
-
+### About this project
 
 
 

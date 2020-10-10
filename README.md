@@ -50,38 +50,3 @@ Flutter offers stateful hot reload, allowing you to make changes to your code
 and see the results instantly without restarting your app or losing its state.
 
 [![Hot reload animation][]][Hot reload]
-
-### Extensible and open model
-
-Flutter works with any development tool (or none at all) but includes editor
-plug-ins for both [Visual Studio Code] and [IntelliJ / Android Studio]. Flutter
-provides [thousands of packages][Flutter packages] to speed your development,
-regardless of your target platform. And accessing other native code is easy,
-with support for both [FFI] and [platform-specific APIs][platform channels].
-
-Flutter is a fully open-source project, and we welcome contributions.
-Information on how to get started can be found at our
-[contributor guide](CONTRIBUTING.md).
-
-[Flutter logo]: https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png
-[flutter.dev]: https://flutter.dev
-[Build Status - Cirrus]: https://api.cirrus-ci.com/github/flutter/flutter.svg
-[Build status]: https://cirrus-ci.com/github/flutter/flutter/master
-[Gitter Channel]: https://badges.gitter.im/flutter/flutter.svg
-[Gitter badge]: https://gitter.im/flutter/flutter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
-[Twitter handle]: https://img.shields.io/twitter/follow/flutterdev.svg?style=social&label=Follow
-[Twitter badge]: https://twitter.com/intent/follow?screen_name=flutterdev
-[layered architecture]: https://flutter.dev/docs/resources/inside-flutter
-[widget catalog]: https://flutter.dev/widgets/
-[Reflectly hero image]: https://github.com/flutter/website/blob/master/src/images/homepage/reflectly-hero-600px.png
-[Skia]: https://skia.org/
-[Dart platform]: https://dart.dev/
-[Dart platform diagram]: https://github.com/flutter/website/blob/master/src/images/homepage/dart-diagram-small.png
-[Hot reload animation]: https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/tools/android-studio/hot-reload.gif
-[Hot reload]: https://flutter.dev/docs/development/tools/hot-reload
-[Visual Studio Code]: https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter
-[IntelliJ / Android Studio]: https://plugins.jetbrains.com/plugin/9212-flutter
-[Flutter packages]: https://pub.dev/flutter
-[FFI]: https://flutter.dev/docs/development/platform-integration/c-interop
-[platform channels]: https://flutter.dev/docs/development/platform-integration/platform-channels
-[interop example]: https://github.com/flutter/flutter/tree/master/examples/platform_channel

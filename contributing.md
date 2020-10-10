@@ -14,6 +14,10 @@ This is a simple project, we are going to add different buttons which will launc
 
 7. After you make changes, use **git add .** to stage your changes and **git commit -m "Description of changes"** to commit them.
 8. Upload these changes to your fork using **git push origin master**
+9. Return to your fork on GitHub, and refresh the page. You may see a highlighted area that displays your recently pushed branch.
+   Click the green Compare & pull request button to begin the pull request.
+10. Then click Create pull request.
+11. **Congratulations** you have successfully created a pull request.
 
 [Hacktoberfest Logo]: https://github.com/dsciiitkalyani/flutter-url-launcher/blob/master/assets/Logo%20Sponsors%20Light.png?raw=true
 [Raised Button]: https://github.com/dsciiitkalyani/flutter-url-launcher/blob/master/assets/raised_button.PNG?raw=true

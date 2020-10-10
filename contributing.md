@@ -10,7 +10,7 @@ This is a simple project, we are going to add different buttons which will launc
 5. Goto to lib/Home.dart.
 6. Inside column widget,Add a button widget like below with any url (example https://facebook.com).
 
-![Raised Button]
+     ![Raised Button]
 
 7. After you make changes, use **git add .** to stage your changes and **git commit -m "Description of changes"** to commit them.
 8. Upload these changes to your fork using **git push origin master**

@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:url_launcher/url_launcher.dart';
 
 class Home extends StatefulWidget {
   @override
@@ -26,21 +25,7 @@ class _HomeState extends State<Home> {
             mainAxisAlignment: MainAxisAlignment.start,
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
-              RaisedButton(
-                color: Colors.black,
-                shape: RoundedRectangleBorder(
-                  borderRadius: BorderRadius.circular(50)
-                ),
-                child: Text(
-                  "Open google.com",
-                  style: TextStyle(color: Colors.white),
-                ),
-                onPressed: () async {
-                  if (await canLaunch("https://google.com")) {
-                    launch("https://google.com");
-                  }
-                },
-              )
+              
             ],
           ),
         ),

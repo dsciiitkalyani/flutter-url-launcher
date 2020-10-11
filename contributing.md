@@ -20,7 +20,7 @@ This is a simple flutter app for android and ios, we are going to add different 
     ![Goto folder]
     
     ![Open vscode]
-5. Goto pubspec.yaml and add url_launcher dependency.
+5. Goto pubspec.yaml and add url_launcher package.then press Ctrl+s to get package. 
 
     ![Add dependency]
    

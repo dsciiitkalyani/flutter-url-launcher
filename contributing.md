@@ -5,11 +5,11 @@ This is a simple flutter app for android and ios, we are going to add different 
 ### How to contribute
 1. Click Fork button in upper right corner to fork this repository. This creates a copy of this repository in your Github Account.
 
-  ![FORK]
+    ![FORK]
   
 2. Clone the forked repository, click green **Code** button and then copy the HTTPS URL.
 
-  ![Clone]
+    ![Clone]
   
 3. Using Git on your local machine, clone your fork using the URL you just copied: **git clone URL_OF_FORK**.
 
@@ -22,7 +22,7 @@ This is a simple flutter app for android and ios, we are going to add different 
     ![Open vscode]
 5. Goto pubspec.yaml and add url_launcher dependency.
 
-   ![Add dependency]
+    ![Add dependency]
    
 6. Goto to lib/Home.dart.
 

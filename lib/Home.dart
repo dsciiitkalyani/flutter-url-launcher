@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 class Home extends StatefulWidget {
   @override
@@ -25,7 +26,14 @@ class _HomeState extends State<Home> {
             mainAxisAlignment: MainAxisAlignment.start,
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
-              
+              RaisedButton(
+                onPressed: () async {
+                  if (await canLaunch("https://facebook.com")) {
+                    launch("https://facebook.com");
+                  }
+                },
+                child: Text("Open facebook"),
+              )
             ],
           ),
         ),
